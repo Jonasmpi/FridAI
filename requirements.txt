@@ -1,4 +1,4 @@
-absl-py==0.1.11
+absl-py==0.7
 astor==0.6.2
 bleach==1.5.0
 cycler==0.10.0
@@ -10,9 +10,9 @@ Keras==2.1.5
 kiwisolver==1.0.1
 Markdown==2.6.11
 matplotlib==2.2.0
-numpy==1.14.2
+numpy==1.14.5
 Pillow==5.0.0
-protobuf==3.5.2
+protobuf==3.6.1
 pyparsing==2.2.0
 python-dateutil==2.7.0
 pytz==2018.3
@@ -21,7 +21,7 @@ scikit-learn==0.19.1
 scipy==1.0.0
 six==1.11.0
 sklearn==0.0
-tensorboard==1.6.0
-tensorflow==1.6.0
+tensorboard==1.11.0
+tensorflow==1.11.0
 termcolor==1.1.0
 Werkzeug==0.14.1
